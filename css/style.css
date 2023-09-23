@@ -1,0 +1,126 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background: rgba(10, 1, 1, 0.601);
+    color:white;
+}
+
+.my_d{
+    margin-top:-30px;
+    margin-left:580px !important;
+    font-weight:900;
+    display: block;
+    font-size:180px;
+    text-shadow: -12px 0px 0px red,14px 0px 0px green;
+    clear: both;
+    float: left;
+}
+
+.my_e{
+    font-size:70px;
+    margin-left:20px;
+    font-weight:bolder;
+    color:orange;
+    text-shadow:2px 4px 2px white,2px 4px 1px blue;
+    transform: scale(1,1);
+    transition:all 0.5s;
+    float: left;
+}
+
+.my_e:hover{
+    color:rgba(5, 5, 96, 0.775);
+    transform: scale(1,3);
+}
+
+.my_p{
+    font-size:70px;
+    font-weight:700;
+    padding: 10px;
+    color:rgba(21, 225, 239, 0.594);
+    text-shadow:2px 2px 2px rgb(20, 19, 19),4px 4px 4px rgb(139, 6, 6);
+}
+.my_a:nth-child(5){
+    font-size: 5rem !important;
+    font-weight: bold;
+    color:royalblue;
+    text-shadow: 8px 2px 0px rgba(55, 3, 103, 0.814) !important;
+}
+
+.my_k{
+    font-size: 5rem;
+    font-weight: bold;
+    color:royalblue;
+    margin: 10px;
+    text-shadow: 9px 2px 0px rgba(5, 184, 249, 0.814),3px 0px 8px rgba(1, 230, 28, 0.839);
+}
+
+.my_content2{
+    margin:150px 300px !important;
+    display: block;
+}
+
+.my_content2>.my_pp{
+    font-size: 150px;
+    color:black;
+    text-shadow: -10px 0px 0px salmon;
+}
+
+.my_r{
+    font-size: 5rem;
+    font-weight: bold;
+    color:cadetblue;
+    text-shadow: -5px 0px 0px black;
+}
+
+.my_aa{
+    font-size: 5rem;
+    font-weight: bold;
+    color:rgb(220, 138, 7);
+    text-shadow: -9px 0px 0px rgba(34, 4, 227, 0.764),0px 0px 3px rgba(2, 143, 190, 0.839);
+}
+
+.my_j{
+    font-size: 5rem;
+    font-weight: bold;
+    color:#902349;
+    margin:15px;
+    text-shadow: -6px 0px 0px #05fdd8;
+}
+
+.my_aaa{
+    font-size: 5rem;
+    font-weight: bold;
+    color:rgb(225, 65, 198);
+    text-shadow: 5px 2px 0px rgb(4, 183, 227),-3px 0px 0px rgba(47, 1, 230, 0.839);
+}
+
+:nth-child(5){
+    font-size: 0.7em !important;
+    color: rgb(13, 231, 13);
+    text-shadow: -9px 0px 0px black !important; 
+}
+.my_aaaa{
+    font-size: 5rem;
+    font-weight: bold;
+    color:rgba(14, 40, 39, 0.019);
+    text-shadow: 9px 8px 0px rgb(4, 183, 227),3px 0px 8px rgba(47, 1, 230, 0.839);
+}
+
+.my_t{
+    font-size: 5rem;
+    font-weight: bold;
+    color:rgb(33, 7, 201);
+    margin:10px;
+    text-shadow: 5px 0px 0px whitesmoke;
+}
+
+.my_i{
+    font-size: 5rem;
+    font-weight: bold;
+    margin:20px;
+    color:rgb(88, 71, 85);
+    text-shadow: -5px 0px 0px rgb(8, 8, 8),-3px 0px 5px rgba(230, 1, 131, 0.839);
+}
